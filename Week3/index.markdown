@@ -36,7 +36,23 @@ This is link to [my portfolio] (https://shallusameera10.github.io/shallu_portfol
 ##images
 ![dice](replace.avif)
 
+#inline single tick
+this is `var=10`
+block of code
+```javascript
+var a=10'
+if(a==10){
+    console.log("hello");
+}
+```
+#tables
+Language | coding | front or back
+---------|--------|--------------
+html.    |1.      | front\
+php.     |2.      |back
 
+#comments
+<!-- HTML commments will work>
 <style>
 
     h1 {
